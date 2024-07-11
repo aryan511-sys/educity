@@ -3,7 +3,7 @@ import './programes.css'
 
 const Proggrames = () => {
   return (
-    <div className='programs'>
+    <div className='programs' >
       <div className="program">
         <img src="https://greatstack.in/assets/program-1-DA_EvTPy.png" alt="" />
         <div className="caption">
