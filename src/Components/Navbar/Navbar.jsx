@@ -10,9 +10,9 @@ function Navbar() {
       })
     } , [] )
 
-    const [mobileMenu , setMobileMenu] = useState(false);
+    const [mobileMenu , setMobileMenu] = useState(true);
     const toggleMenu = () => {
-      mobileMenu ? setMobileMenu(false) : setMobileMenu(true) 
+      ! mobileMenu ? setMobileMenu(true) : setMobileMenu(false) 
     }
 
 
