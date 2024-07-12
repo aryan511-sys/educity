@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/educity/static/css/main.0714d47f.css",
+    "main.js": "/educity/static/js/main.82af1852.js",
+    "static/js/453.eebb8bdc.chunk.js": "/educity/static/js/453.eebb8bdc.chunk.js",
+    "index.html": "/educity/index.html",
+    "main.0714d47f.css.map": "/educity/static/css/main.0714d47f.css.map",
+    "main.82af1852.js.map": "/educity/static/js/main.82af1852.js.map",
+    "453.eebb8bdc.chunk.js.map": "/educity/static/js/453.eebb8bdc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0714d47f.css",
+    "static/js/main.82af1852.js"
+  ]
+}
